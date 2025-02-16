@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/usr/bin/ninja",
+      "-C",
+      "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/android/app/.cxx/RelWithDebInfo/22bz3b61/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/usr/bin/ninja",
+    "-C",
+    "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/android/app/.cxx/RelWithDebInfo/22bz3b61/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "gpmf::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "gpmf",
+      "output": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/build/app/intermediates/cxx/RelWithDebInfo/22bz3b61/obj/armeabi-v7a/libgpmf.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

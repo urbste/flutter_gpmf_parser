@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/android/app/.cxx/RelWithDebInfo/22bz3b61/x86",
+  "command": "/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android21 --sysroot=/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dgpmf_EXPORTS -I/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -O2 -g -DNDEBUG -fPIC -o CMakeFiles/gpmf.dir/native/src/gpmf_bindings.c.o -c /home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/gpmf_bindings.c",
+  "file": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/gpmf_bindings.c"
+},
+{
+  "directory": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/android/app/.cxx/RelWithDebInfo/22bz3b61/x86",
+  "command": "/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android21 --sysroot=/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dgpmf_EXPORTS -I/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -O2 -g -DNDEBUG -fPIC -o CMakeFiles/gpmf.dir/native/src/GPMF_parser.c.o -c /home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/GPMF_parser.c",
+  "file": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/GPMF_parser.c"
+},
+{
+  "directory": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/android/app/.cxx/RelWithDebInfo/22bz3b61/x86",
+  "command": "/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android21 --sysroot=/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dgpmf_EXPORTS -I/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -O2 -g -DNDEBUG -fPIC -o CMakeFiles/gpmf.dir/native/src/GPMF_mp4reader.c.o -c /home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/GPMF_mp4reader.c",
+  "file": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/GPMF_mp4reader.c"
+},
+{
+  "directory": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/android/app/.cxx/RelWithDebInfo/22bz3b61/x86",
+  "command": "/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=i686-none-linux-android21 --sysroot=/usr/lib/android-sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dgpmf_EXPORTS -I/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -O2 -g -DNDEBUG -fPIC -o CMakeFiles/gpmf.dir/native/src/GPMF_utils.c.o -c /home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/GPMF_utils.c",
+  "file": "/home/steffen/external_projects/gpmf_flutter/gpmf_flutter/native/src/GPMF_utils.c"
+}
+]

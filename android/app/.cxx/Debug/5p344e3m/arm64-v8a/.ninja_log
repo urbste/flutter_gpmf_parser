@@ -1,0 +1,6 @@
+# ninja log v5
+0	14	1739724501682815463	CMakeFiles/gpmf.dir/native/src/gpmf_bindings.c.o	3e429308cf6dfe00
+1	18	1739724501686815617	CMakeFiles/gpmf.dir/native/src/GPMF_utils.c.o	35ee1b9b32e8fce7
+1	39	1739724501707816428	CMakeFiles/gpmf.dir/native/src/GPMF_mp4reader.c.o	c4599df768de2e33
+0	154	1739724501821820832	CMakeFiles/gpmf.dir/native/src/GPMF_parser.c.o	78c02967f78a605d
+154	163	1739724501830821180	../../../../../../build/app/intermediates/cxx/Debug/5p344e3m/obj/arm64-v8a/libgpmf.so	ae490dc531526864

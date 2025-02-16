@@ -1,0 +1,32 @@
+name: flutter_gpmf_parser
+description: "A Flutter app for parsing GoPro GPMF data"
+publish_to: 'none'
+
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ffi: ^2.1.0
+  file_picker: ^6.1.1
+  path: ^1.8.3
+  permission_handler: ^11.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  test: ^1.24.9
+
+flutter:
+  uses-material-design: true
+  # This section identifies this Flutter project as a plugin project.
+  # The 'pluginClass' specifies the class (in Java, Kotlin, Swift, Objective-C, etc.)
+  # which should be registered in the plugin registry. 
+  
+  assets:
+    - assets/samples/ 
